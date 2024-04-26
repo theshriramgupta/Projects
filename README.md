@@ -19,8 +19,8 @@ My Profiles :
 • Instagram : instagram.com/theshriramgupta/ 
 
 My Projects : 
-• 
-• 
-• 
-• 
-• 
+• Stock Market Prediction
+• Social Media Sentiment Analysis
+• Image Classification
+• Customer Churn Prediction
+• Predictive Analysis for Sales Forecasting
