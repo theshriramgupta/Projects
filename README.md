@@ -15,7 +15,7 @@ Skills :
 My Profiles :         
 • LeetCode : leetcode.com/guptashriram/              
 • LinkedIn : linkedin.com/in/shriram-gupta-643906204/          
-• Twitter : twitter.com/theshriramgupta         
+• Twitter : x.com/theshriramgupta         
 • Instagram : instagram.com/theshriramgupta/          
 
 My Projects :             
